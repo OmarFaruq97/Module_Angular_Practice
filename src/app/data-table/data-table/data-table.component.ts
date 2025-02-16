@@ -14,28 +14,28 @@ export class DataTableComponent {
       age:   28,
       city:  'dhaka',
       country:'bangladesh',
-      image:  '',
+      image:  'https://eu.ui-avatars.com/api/?name=omar',
     },
     {
       name: 'iqramul',
       age:   27,
       city:  'narayanganj',
       country:'bangladesh',
-      image:  '',
+      image:  'https://eu.ui-avatars.com/api/?name=iqram',
     },
     {
       name: 'ab siddiki',
       age:   29,
       city:  'tangail',
       country:'bangladesh',
-      image:  '',
+      image:  'https://eu.ui-avatars.com/api/?name=absiddiki',
     },
     {
       name: 'Faysal Ahmed',
       age:   59,
       city:  'Demra',
       country:'Bangladesh',
-      image:  '',
+      image:  'https://eu.ui-avatars.com/api/?name=faysal',
     },
   ]
 }
