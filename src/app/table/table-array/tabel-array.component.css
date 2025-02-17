@@ -11,9 +11,3 @@ th, td{
 h2{
     text-align: center;
 }
-html,body{
-    display: flex;
-    justify-content: center;
-    display: grid;
-    margin: 0;
-}
