@@ -1,6 +1,6 @@
 table{
 
-    width: 70%;
+    width: 80%;
     border-collapse: collapse;
 }
 th, td{
@@ -11,7 +11,7 @@ th, td{
 h2{
     text-align: center;
 }
-html,body{
+body{
     display: flex;
     justify-content: center;
     display: grid;

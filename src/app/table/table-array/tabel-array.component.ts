@@ -10,8 +10,9 @@ import { CommonModule } from '@angular/common'; // Import CommonModule
 export class TabelArrayComponent {
 
   playerArray: any[] =[
-    {name: "Messi", club: "Miami", country:"Argentina"},
-    {name: "Ronaldo", club: "Al-naser", country:"Portugal"},
-    {name: "Neymar", club: "Santos FC", country:"Brazil"}
+    {name: "Lionel Messi", club: "Inter-Miami", country:"Argentina"},
+    {name: "Cristiano Ronaldo", club: "Al-naser", country:"Portugal"},
+    {name: "Neymar JR", club: "Santos FC", country:"Brazil"},
+    {name: "Harry Kane", club: "Bayarn", country:"England"}
   ]
 }
